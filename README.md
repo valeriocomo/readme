@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">Hello! I'm Valerio Como. I'm a Tech Lead and an Agile Metodologies enthusiast</p>
+<p align="center">Hello! I'm Valerio Como. I'm a Software Engineer and Team Tech Lead</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p>I work with web technologies. I love to work with Angular but I have experience with ReactJS and some old fashion framework like Knockout.js. I know the fundamentals of native mobile development (Android with Kotlin and iOS with Swift) and hybrid mobile development with Ionic.</p>
+<p>I work with web technologies. I love working with Angular but I have some experience with ReactJS. I know the fundamentals of native mobile development (Android with Kotlin and iOS with Swift) and hybrid mobile development with Ionic.</p>
 <p>I design APIs (REST, gRPC, GraphQL) with several technologies such as NodeJS (Typescript and Javascript), C#, Java, PHP.</p>
 <p>Developer Experience is one of my latest trending topic, with a particular focus on the creation of replicable dev environments via Docker.</p>
 <p>System Design is one of the activity I like to do most.</p>
